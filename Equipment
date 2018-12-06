@@ -1,0 +1,73 @@
+<style>
+  body{
+background-color:black; 
+  }
+  table{
+    color:orange;
+    width:1000px;
+      height:750px;
+    font-size:20;
+  }
+</style>
+<table style="width:100%;">
+      <table border="5">
+  <tr>
+    <th>Equipment</th>
+    <th>Amount</th> 
+    
+  </tr>
+  <tr>
+    <td>Treadmills-Life Fitness Club Series</td>
+    <td>30</td> 
+   
+  </tr>
+  <tr>
+    <td>Bench Racks-Bowflex 5.1 Weight Bench</td>
+    <td>10</td> 
+  
+  </tr>
+      <tr>
+    <td>Squat Racks-Atlas Power Rack Squat Deadlift Cage with Bench Racks 
+</td>
+    <td>15</td> 
+    
+   
+  </tr>
+         <tr>
+    <td>Free Weights-Bowflex SelectTech Adjustable Dumbbells </td>
+    <td>30</td> 
+    
+   
+  </tr>
+         <tr>
+    <td>Leg Press-Powertec Fitness Leg Press</td>
+    <td>5</td> 
+    
+   
+  </tr>
+         <tr>
+    <td>Dip Bar-Titan Fitness HD Dip Station Stand Body Press </td>
+    <td>10</td> 
+    
+   
+  </tr>
+         <tr>
+    <td>Pull Up Bar-Stamina Power Towers </td>
+    <td>10</td> 
+    
+   
+  </tr>
+         <tr>
+    <td>Full Body Machine-Total Gym</td>
+    <td>20</td> 
+    
+   
+  </tr>
+         <tr>
+    <td>Lat Pull Down Machine-Watson Single Stack Lat Pulldown</td>
+    <td>10</td> 
+    
+   
+  </tr>
+</table>
+</table>
