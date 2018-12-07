@@ -1,13 +1,15 @@
 <style>
   body{
-
+background-color:black;
   }
   table{
-    color:white;
+    color:black;
     width:1000px;
       height:750px;
     font-size:20;
-    background-color:green;
+    background-color:gray;
+    margin-left:auto;
+    margin-right:auto;
   }
 </style>
 <table style="width:100%;">
