@@ -1,15 +1,30 @@
-
 <html>
-<head>
-  Trainers <br>
-  Nicky Iannacci <br>
-  Adam Donovan <br>
-  Robert Kimtis <br>
-  Antonio Capelo <br>
-  Brandon Tang <br>
-  Jake Kaiser <br>
-</head>
-<body>
+  <style>
+    body {
+      background-color:gray;
+     text-align:center; 
+      font-size:40px;
+    }
+    #don {
+      width:200px;
+      height:250;
+    }
+  </style>
 
+<body>
+  Trainers <br>  <br>
+  Nicky Iannacci <br> 3 Year Veteran in the Gym <br>
+  <img src=""<br>
+  Adam Donovan <br> 6 Year Veteran in All Forms of Exercise <br>
+  <img id=don
+   <img src="https://photos.smugmug.com/Sports/High-School/Tewksbury-football-Rosberg-091917/i-gRXpNbg/0/91b8d238/L/LS_091917_TEW_football045-L.jpg"<br>
+  <br>Robert Kimtis <br>7 Year Veteran in Basic Lifts  <br> 
+   <img src=""<br>
+  Antonio Capelo <br>4 Year Veteran in Heavy Lifting <br>  
+  <img src=""<br>
+  Brandon Tang <br> 2 Year Veteran in Tone Lifting <br> 
+  <img src="" <br>
+  Jake Kaiser <br> 2 Year Veteran in Yoga 
+   <img src=""
 </body>
-</html>
+</html
