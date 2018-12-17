@@ -1,0 +1,32 @@
+<html>
+<style>
+  body {
+  background-color:gray;
+  } 
+  h1 {
+    text-align:center;
+    font-size:75;
+  }
+  h2 {
+    text-align:center;
+    font-size:40;
+  }
+  #gym {
+    width:600;
+     padding:10px;
+      border: 10px solid black
+  }
+  </style>  
+<head>
+
+</head>
+<body>
+<h1> About Us
+  <h2> We have 10 combined years of experience in the fitness area. We know the ins and outs of 
+    <br>what you need to do in order to get the good gains. We will train you to get in the shape you want. 
+    <br> We know the equipment and how to use it in the best possible way. We have changed more lives than any 
+    <br>fitness clubs in the business. We have a free daycare program for your children for when you are working out.
+<img id=gym
+    <img src="https://rukminim1.flixcart.com/image/832/832/poster/z/g/9/medium-pvspo352-sports-gym-boxing-black-white-hd-wall-poster-original-imaek7vyb34txyub.jpeg?q=70"
+</body>
+</html>
