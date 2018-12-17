@@ -8,23 +8,76 @@
     #don {
       width:200px;
       height:250;
+      padding:10px;
+      border: 10px solid black
+       
+    }
+    #rob {
+      width:250px;
+      height:200px;
+      padding:10px;
+      border: 10px solid black
+    }
+    #ant {
+      width:250px;
+      height:200px;
+      padding:10px;
+      border: 10px solid black
+    }
+    #tan {
+      width:250px;
+      height:250px;
+      padding:10px;
+      border: 10px solid black
+    }
+    #jak {
+      width:250px;
+      height:200px;
+      padding:10px;
+      border: 10px solid black
+    }
+    #nic {
+      width:250px;
+      height:200px;
+      padding:10px;
+      border: 10px solid black
+    }
+    .train {
+      font-size:50px;
+    
+    }
+    .all {
+      font-size:25px;
+     
+    }
+    #gym {
+      padding:10px;
+      border: 10px solid black
     }
   </style>
 
 <body>
-  Trainers <br>  <br>
-  Nicky Iannacci <br> 3 Year Veteran in the Gym <br>
-  <img src=""<br>
-  Adam Donovan <br> 6 Year Veteran in All Forms of Exercise <br>
+  <h1><strong class="train" </strong> Trainers <br> 
+    <img id=gym
+    <img src="https://www.garage-gyms.com/wp-content/uploads/2014/02/barbell-sunlight-1bw.jpg" <br>
+    <h2><strong class="all" </strong> Nicky Iannacci <br> 3 Year Veteran in the Gym <br>
+  <img id=nic
+  <img src="https://cdn.patchcdn.com/users/1161351/2012/02/T800x600/3243d7640bdb393e8154c1c72f6dcf39.jpg"<br>
+<br>  Adam Donovan <br> 6 Year Veteran in All Forms of Exercise <br>
   <img id=don
    <img src="https://photos.smugmug.com/Sports/High-School/Tewksbury-football-Rosberg-091917/i-gRXpNbg/0/91b8d238/L/LS_091917_TEW_football045-L.jpg"<br>
-  <br>Robert Kimtis <br>7 Year Veteran in Basic Lifts  <br> 
-   <img src=""<br>
-  Antonio Capelo <br>4 Year Veteran in Heavy Lifting <br>  
-  <img src=""<br>
-  Brandon Tang <br> 2 Year Veteran in Tone Lifting <br> 
-  <img src="" <br>
-  Jake Kaiser <br> 2 Year Veteran in Yoga 
-   <img src=""
+  <br> Robert Kimtis <br>7 Year Veteran in Basic Lifts  <br> 
+   <img id=rob
+   <img src="https://photos.smugmug.com/Sports/High-School/Tewksbury-Beverly-football-110318/i-brmM9N5/0/9e8431ad/XL/LS_110318_TEW_football211-XL.jpg"<br>
+ <br> Antonio Capelo <br>4 Year Veteran in Heavy Lifting <br> 
+  <img id=ant
+  <img src="https://bloximages.chicago2.vip.townnews.com/homenewshere.com/content/tncms/assets/v3/editorial/8/be/8bea0772-f418-11e8-a509-e3e7ac47979b/5c0051bb3e314.image.jpg?resize=1200%2C866"<br>
+<br>  Brandon Tang <br> 2 Year Veteran in Tone Lifting <br> 
+  <img id=tan
+  <img src="https://lh3.googleusercontent.com/-m96BeWUZsxY/AAAAAAAAAAI/AAAAAAAAAPk/aGiKSFULgXw/photo.jpg" <br>
+ <br> Jake Kaiser <br> 2 Year Veteran in Yoga<br>
+  <img id=jak
+   <img src="http://2.bp.blogspot.com/-uuACHOV5FSI/Tid6m1R5QpI/AAAAAAAAAFI/A5JEL8MpbEk/s1600/dsc_0225.jpg"
 </body>
 </html
+
