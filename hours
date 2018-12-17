@@ -1,0 +1,22 @@
+<html>
+  <style>
+    body {
+      background-color:gray;
+    }
+    h1 {
+      font-size:75;
+      text-align:center;
+    }
+    h2 {
+      font-size:50;
+      text-align:center;
+    }
+  </style>  
+<head>
+
+</head>
+<body>
+<h1> Hours
+  <h2> We Are An Exclusive Gym Open 24/7
+</body>
+</html>
