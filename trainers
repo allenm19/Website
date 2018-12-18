@@ -54,6 +54,10 @@
       padding:10px;
       border: 10px solid black
     }
+    table {
+      margin-left:auto;
+      margin-right:auto;
+    }
   </style>
 
 <body>
@@ -78,6 +82,18 @@
  <br> Jake Kaiser <br> 2 Year Veteran in Yoga<br>
   <img id=jak
    <img src="http://2.bp.blogspot.com/-uuACHOV5FSI/Tid6m1R5QpI/AAAAAAAAAFI/A5JEL8MpbEk/s1600/dsc_0225.jpg"
-</body>
+     
+      <strong class="tab" </strong><table style="width:100%;">
+      <table border="10">
+  <tr>
+    <th><a href="https://output.jsbin.com/xatiteg"> Memberships</th> </a>
+        <th><a href="https://output.jsbin.com/faseruz">Classes</th> </a>
+<th><a href="https://output.jsbin.com/kikuye">Home</th> </a>
+        <th><a href="https://output.jsbin.com/nabebig">Equipment </th> </a>
+    <th><a href="https://output.jsbin.com/danekeq">Trainers</th> </a>
+        <th> <a href="https://output.jsbin.com/ciyobod">About Us</th> </a>
+  
+  </tr>
+ 
+      </body>
 </html
-
